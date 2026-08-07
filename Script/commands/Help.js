@@ -32,7 +32,7 @@ module.exports.languages = {
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
 ┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 👑 Owner: 𝐚𝐫𝐢𝐲𝐚𝐧 𝐚𝐡𝐦𝐞𝐝 𝐬𝐚𝐛𝐛𝐢𝐫
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -41,7 +41,7 @@ module.exports.languages = {
     }
 };
 
-// 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
+https://i.imgur.com/FStYdGU.jpeg
 const helpImages = [
     "https://i.imgur.com/gokzyKd.jpeg",
     "https://i.imgur.com/g3hlQ0Z.jpeg",
