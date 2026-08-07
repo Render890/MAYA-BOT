@@ -34,7 +34,7 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
 ╚═══════════════════════╝`;
 
- https://i.imgur.com/FStYdGU.jpeg
+https://i.imgur.com/e44Osr0.png
  
  const backgrounds = [
     "https://i.imgur.com/gokzyKd.jpeg",
