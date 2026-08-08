@@ -35,9 +35,9 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ╚═══════════════════════╝`;
  
  const backgrounds = [
-    "https://i.imgur.com/gokzyKd.jpeg",
-    "https://i.imgur.com/g3hlQ0Z.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
+    "https://i.imgur.com/e44Osr0.png",
+    "https://i.imgur.com/8T48Ddf.png",
+    "https://i.imgur.com/e44Osr0.png",
     "https://i.imgur.com/5dG8PS5.jpeg"
  ];
  const selectedBg = backgrounds[Math.floor(Math.random() * backgrounds.length)];
