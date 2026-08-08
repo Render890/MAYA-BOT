@@ -33,8 +33,6 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝐀𝐑𝐈𝐘𝐀𝐍 𝐀𝐇𝐌𝐄𝐃 𝐒𝐀𝐁𝐁𝐈𝐑
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
 ╚═══════════════════════╝`;
-
-
  
  const backgrounds = [
     "https://i.imgur.com/gokzyKd.jpeg",
