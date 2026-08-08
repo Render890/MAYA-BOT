@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 const request = require("request");
 
 module.exports.config = {
- name: "helpall",
+ name: "help",
  version: "1.0.0",
  hasPermssion: 0,
  credits: "SHAHADAT SAHU",
@@ -34,7 +34,7 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
 ╚═══════════════════════╝`;
 
-https://i.imgur.com/e44Osr0.png
+
  
  const backgrounds = [
     "https://i.imgur.com/gokzyKd.jpeg",
